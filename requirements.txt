@@ -12,6 +12,7 @@ imblearn
 plotly
 matplotlib
 seaborn
+kaleido==0.1.0
 
 # --- Entorno de Trabajo (Opcional pero recomendado) ---
 ipykernel
