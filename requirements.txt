@@ -1,0 +1,17 @@
+# --- Manipulación de Datos y Análisis Estadístico ---
+pandas
+numpy
+scipy
+phik
+
+# --- Machine Learning y Manejo de Desbalanceo ---
+scikit-learn
+imblearn
+
+# --- Visualización de Datos ---
+plotly
+matplotlib
+seaborn
+
+# --- Entorno de Trabajo (Opcional pero recomendado) ---
+ipykernel
